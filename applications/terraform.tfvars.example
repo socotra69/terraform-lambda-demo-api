@@ -1,0 +1,3 @@
+env    = "dev"
+vpc_id = "vpc-xxxx"
+app    = "demoapi:v1"
